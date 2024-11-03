@@ -31,4 +31,8 @@ Each folder has:
 
 ## 🎉 Let’s Connect
 
+<<<<<<< HEAD
 If you’re also working on DSA or C++, feel free to fork this repo, star it ⭐️, or try out some of the problems yourself. Let’s keep coding and growing together! 🚀
+=======
+If you’re also working on DSA or C++, feel free to fork this repo, star it ⭐️, or try out some of the problems yourself. Let’s keep coding and growing together! 🚀
+>>>>>>> ac7a5937257d750f9a805f2f2c9ac445326c8033
