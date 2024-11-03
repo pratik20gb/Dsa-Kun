@@ -29,7 +29,4 @@ Recursion and Backtracking
 Graph Algorithms (DFS, BFS, Dijkstra's, etc.)
 C++ Basics:
 
-# Syntax and Structure
-Functions, Classes, and Objects
-Standard Template Library (STL) Usage
- 🚀
+# 365DaysOfCode
