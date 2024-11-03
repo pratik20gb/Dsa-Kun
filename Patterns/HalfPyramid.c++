@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     // rows = 5 
-    // colms  = 5 
+    // cols  = 5 
     // row 5  = 5 star and then decending
     int n;
     cin>>n;
