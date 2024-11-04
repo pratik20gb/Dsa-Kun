@@ -1,3 +1,16 @@
+<div align="center">
+ 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBvMGs4ZGljb2Jjang1Y29nZDY3NmZzZmZ0M3NzdnNhemUyOWp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UNQ8B2nvmT5fhP9H5h/giphy.webp" alt="Banner Image 2" width="100" height="100">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHIxeHFwZHA0a2p3cnBwMTExb20wNjhvcG1raDkxaHRjMTBnM3d3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JE39V8HXhOskZJRZ1f/giphy.webp" alt="Banner Image 1" width="100" height="100"> 
+ 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTN3ZnI0dmRoaWU5ODVtN3VkZDN3OXd1bHU3NXVid2NpMHNnaGJzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZv2l6yYGnGHuPtqWY/giphy.webp" alt="Banner Image 3" width="100" height="100">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk3Nnp6NGV1aHBsNmhucHU1cjh6b3A5NDhzNWdmd3R1ZjFjYm1sYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7H6c3aBnCQkxzbJCCM/giphy.webp" alt="Banner Image 4" width="100" height="100">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJzcjk5bzJjcWZuOTl4Zml4NXg4aTF3b2tldmNwaTA5NnA4OWllaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p08QbExAmhzuL1GtS2/giphy.webp" alt="Banner Image 4" width="100" height="100">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEwM21iMWIzdnk2N2c3OGtrNGJmNnBsc203Z2drMWJ5cmthdDdodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9NSUrIvULop32EVCxL/giphy.webp" alt="Banner Image 4" width="100" height="100">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c3Zjd6NWh5eGdpZ3VhYzN2YmowOXRoaHA1enRldHNvbml5cDJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HVDXb0xjWbR2Npcpxk/giphy.webp" alt="Banner Image 2" width="100" height="100">
+</div>
+
+
 # DSA and C++ Learning Repository
 Welcome to my Data Structures and Algorithms (DSA) and C++ Learning Repository! This repository contains my journey through learning DSA and C++ as I work through various coding problems and practice implementing different algorithms and data structures.
 
