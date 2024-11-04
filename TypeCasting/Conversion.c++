@@ -2,10 +2,10 @@
 using namespace std;
 int main()
 {
-    // int num = 9;
-    // float num2 = 5.5;
-    // int result = num + num2;
-    // cout << result;
+    int num = 9;
+    float num2 = 5.5;
+    float result = num + num2;
+    cout << result;
 
 
    char ch ='A';

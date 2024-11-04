@@ -4,7 +4,8 @@ int main()
 {
     int n;
     cin >> n;
-    // part2
+    
+    // part1
     for (int row = 0; row < n; row = row + 1)
     {
 
