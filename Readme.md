@@ -3,8 +3,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBvMGs4ZGljb2Jjang1Y29nZDY3NmZzZmZ0M3NzdnNhemUyOWp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UNQ8B2nvmT5fhP9H5h/giphy.webp" alt="Banner Image 2" width="100" height="100">
    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c3Zjd6NWh5eGdpZ3VhYzN2YmowOXRoaHA1enRldHNvbml5cDJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HVDXb0xjWbR2Npcpxk/giphy.webp" alt="Banner Image 1" width="100" height="100"> 
      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBvMGs4ZGljb2Jjang1Y29nZDY3NmZzZmZ0M3NzdnNhemUyOWp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UNQ8B2nvmT5fhP9H5h/giphy.webp" alt="Banner Image 2" width="100" height="100">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c3Zjd6NWh5eGdpZ3VhYzN2YmowOXRoaHA1enRldHNvbml5cDJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HVDXb0xjWbR2Npcpxk/giphy.webp" alt="Banner Image 1" width="100" height="100"> 
- 
+     
 
    
 </div>
