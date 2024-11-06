@@ -6,8 +6,18 @@ int printSum(int a, int b, int c)
     int ans = a + b + c;
     return ans;
 }
+// also we can use return inside void function but we cant send data ;
+void messageInt()
+{
+    cout << "Coder kun " << endl;
+    return; // it will terminate from here and will return to main function
+    cout << "MSG1" << endl; //this will not get executed
+}
 int main()
 {
+    messageInt();
+
+
     int a, b, c;
     cout << "Enter Number 1 : ";
     cin >> a;
