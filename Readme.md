@@ -41,3 +41,17 @@ Graph Algorithms (DFS, BFS, Dijkstra's, etc.)
 C++ Basics:
 
 # 365DaysOfCode
+
+
+ 
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBvMGs4ZGljb2Jjang1Y29nZDY3NmZzZmZ0M3NzdnNhemUyOWp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UNQ8B2nvmT5fhP9H5h/giphy.webp" alt="Banner Image 2" width="100" height="100">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%40pratik20gb&theme=youtube-dark" alt="GitHub Streak" /></a>
+  
+  
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c3Zjd6NWh5eGdpZ3VhYzN2YmowOXRoaHA1enRldHNvbml5cDJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HVDXb0xjWbR2Npcpxk/giphy.webp" alt="Banner Image 1" width="100" height="100"> 
+    
+     
+
+   
+</div>
