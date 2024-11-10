@@ -7,5 +7,5 @@ int main()
 
     int arr[10];
     cout << "Base address of Arr is : " << sizeof(arr) << endl;
-
+    
 }
