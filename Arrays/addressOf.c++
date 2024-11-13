@@ -8,4 +8,5 @@ int main()
     int arr[10];
     cout << "Base address of Arr is : " << &arr << endl;
     cout << "Base address of Arr is : " << arr << endl;// by default arr describe base address only with or without &
+    
 }
